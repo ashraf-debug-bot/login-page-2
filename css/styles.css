@@ -1,0 +1,85 @@
+body {
+margin:0;
+background-color: #d1cebd;
+padding:0;
+  }
+.login-container{
+  position:absolute;
+  align-items: center;
+  right:500px;
+  bottom: 150px;
+  background-color: #413c69;
+  height: 340px;
+  border-radius: 50px;
+
+    font-family: 'Balsamiq Sans', cursive;
+}
+a{
+  color:black;
+
+}
+.gif{
+  position:absolute;
+  bottom: 200px;
+  border-radius: 20px;
+  width:300px;
+  left:20px;
+}
+.top{
+  background-color: #413c69;
+  font-size: 100px;
+  font-weight: lighter;
+  text-align: center;
+  padding:20px;
+  font-family: 'Balsamiq Sans', cursive;
+  padding-bottom: 20px;
+
+}
+.heading{
+  text-align: center;
+  font-family: 'Balsamiq Sans', cursive;
+
+
+}
+.link{
+  position: relative;
+  text-decoration: none;
+  margin: 200px;
+  top: 20px;
+}
+.button{
+  margin: 20px;
+  position: relative;
+  left:200px;
+  top:20px;
+  width:80px;
+  border-radius: 20px;
+  background-color: #413c69
+
+}
+button:hover{
+  color:white;
+
+}
+.password2{
+  position:absolute;
+  right:160px;
+  bottom: 200px;
+}
+.label2{
+  position:absolute;
+  right:350px;
+  bottom:202px;
+  border-radius: 40px;
+}
+.email{
+  position:absolute;
+  right:160px;
+}
+.label{
+  position:absolute;
+  right:350px
+}
+a:hover{
+  color:white;
+}
